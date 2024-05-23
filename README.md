@@ -1,1 +1,1 @@
-System microsserviçes Spring boot with RabbitmQ.
+System microsservices Spring boot with RabbitmQ.
